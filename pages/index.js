@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my LeChinese!" />
         <p className="description">
-         Your account is now activated, back to your app and login!</code>
+         Your account is now activated, back to your app and login LeChinese!</code>
         </p>
       </main>
 
